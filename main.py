@@ -2,7 +2,7 @@ from auth import verify_password, verify_totp
 from qr_generator import create_qr
 
 def main():
-    print("=== LOGIN SYSTEM (Password + TOTP) ===")
+    print("LOGIN SYSTEM")
 
     username = input("Username: ")
     password = input("Password: ")
