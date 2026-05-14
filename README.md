@@ -29,4 +29,7 @@ Qëllimi i projektit:
 
 Qëllimi i këtij projekti është të demonstrojë implementimin praktik të autentikimit me dy faktorë duke përdorur TOTP dhe QR Code për të rritur sigurinë e sistemeve dhe aplikacioneve moderne.
 
+Shembull:
+Pas ekzekutimit te kodit, japim Username : route66, password: 12345678, dhe pasi qe kredicialet jane korrekte, shfaqet fotoja e QR code ku permes google authentication skanojm QR code ne te cilin shfaq kodin te cilin duhet brenda 15 sekondave te shkruhet ne terminal!
+
 Autor: Erion Meshi, Zymer Ahmetaj, Erijon Elshani, Erion Qerimi
